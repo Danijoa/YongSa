@@ -1,0 +1,18 @@
+﻿  FileManager.cpp
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\YongSa_Common.h(11,8): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\YongSa_Common.h(11,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\YongSa_Common.h(11,33): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\FileManager.cpp(13,37): error C2039: 'monPov_s': 'SaveData'의 멤버가 아닙니다.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\YongSa_Common.h(6): message : 'SaveData' 선언을 참조하십시오.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\FileManager.cpp(14,62): error C2039: 'monPov_s': 'SaveData'의 멤버가 아닙니다.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\YongSa_Common.h(6): message : 'SaveData' 선언을 참조하십시오.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\FileManager.cpp(14,98): error C2039: 'monPov_s': 'SaveData'의 멤버가 아닙니다.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\YongSa_Common.h(6): message : 'SaveData' 선언을 참조하십시오.
+  YongSa.cpp
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\YongSa_Common.h(11,8): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\YongSa_Common.h(11,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\YongSa_Common.h(11,33): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\YongSa.cpp(325,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\YongSa.cpp(402,20): error C2039: 'monPov_s': 'SaveData'의 멤버가 아닙니다.
+C:\Users\ASUS S530FN\Desktop\YongSa\YongSa\YongSa_Common.h(6): message : 'SaveData' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
